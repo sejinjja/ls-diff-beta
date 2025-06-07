@@ -1,0 +1,20 @@
+{
+  "name": "@sejinjja/-diff",
+  "version": "1.0.0",
+  "description": "폴더1과 폴더2의 차이가 나는 파일을 검색해줌.",
+  "main": "lib/diff.js",
+  "bin": {
+    "ls-diff": "bin/index.js"
+  },
+  "keywords": [
+    "ls", "dir", "diff"
+  ],
+  "author": "sejinjja",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^11.0.0",
+    "fast-glob": "^3.3.1"
+  },
+  "private": false,
+  "repository": "https://github.com/sejinjja/ls-diff-beta"
+}
