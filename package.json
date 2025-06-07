@@ -1,5 +1,5 @@
 {
-  "name": "@sejinjja/-diff",
+  "name": "@sejinjja/ls-diff",
   "version": "1.0.0",
   "description": "폴더1과 폴더2의 차이가 나는 파일을 검색해줌.",
   "main": "lib/diff.js",
